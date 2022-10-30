@@ -1,12 +1,12 @@
 # website title (appears in tab and headers if not overriden by blog title)
-name: # (leave blank for no fallback/title element)
+name: 1kb # (leave blank for no fallback/title element)
 
 # website author
 author: Zachary
 
 description:
 
-lang: # replace with ISO 639-1 Language Code for your language (or leave empty to omit the lang setting)
+lang: en # replace with ISO 639-1 Language Code for your language (or leave empty to omit the lang setting)
 
 compression:
   favicon: # (adds ~400 bytes) site favicon (filepath from root)

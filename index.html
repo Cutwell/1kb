@@ -3,7 +3,7 @@ layout: default
 ---
 <h3>Hi, I'm {{ site.author }}!</h3>
 
-<p>{% markdown _pages/about.md %}</p>
+{% markdown _pages/about.md %}
 
 {% if site.compression.social-urls %}
 <ul>{% for link in site.social-urls %}<li>{{ link.name }}: <a href="{{ link.url }}">{{ link.url }}</a></li>{% endfor %}</ul>
