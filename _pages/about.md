@@ -1,1 +1,1 @@
-This page is exactly 882 bytes, is HTML compliant, and was built using [Featherweight](https://github.com/Cutwell/featherweight).
+This page is exactly 881 bytes, is HTML compliant, and was built using [Featherweight](https://github.com/Cutwell/featherweight).
