@@ -15,7 +15,7 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - uses: helaili/jekyll-action@2.4.0    # Choose any one of the Jekyll Actions
-        with:                                # Some relative inputs of your action
+      - uses: Cutwell/jekyll-build-action@v1
+        with:
           token: ${{ secrets.user_token }}
           target_branch: gh-pages
